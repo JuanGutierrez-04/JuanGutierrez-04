@@ -7,10 +7,10 @@
   align="right" 
 />
 
-<h1 align="left">Hi! I'm <code>&lt;/Juan David&gt;</code></h1>
+<h1 align="left">Hola! Soy <code>&lt;Juan David&gt;</code></h1>
 
 <p align="left">
-  I'm a <strong>Computer Technician</strong> specialized in <strong>web and mobile app development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
+  Soy un ingeniero de sistemas especializado en redes, automatizacion de procesos y programacion. Me gusta combinar creatividad y tecnología, y aquí comparto mis proyectos académicos y personales mientras sigo perfeccionando mis habilidades.
 </p>
 
 <p align="left">
