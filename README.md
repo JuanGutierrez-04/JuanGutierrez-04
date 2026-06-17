@@ -12,9 +12,20 @@
 <p align="left">
   Soy un ingeniero de sistemas especializado en redes, automatizacion de procesos y programacion. Me gusta combinar creatividad y tecnología, y aquí comparto mis proyectos académicos y personales mientras sigo perfeccionando mis habilidades.
 </p>
+<hr>
+<!-- MAIN PHRASE SECTION -->
+<span align="center">
+  <span>
+    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+      <span align="center">Alejandro Taboada Sanchez</span>
+    </h4>
+</span>
+
+<!-- ABOUT YOU -->
+<hr>
 
 <p align="left">
-  🛠️ <strong>Languages I work with:</strong>
+  🛠️ <strong>Lenguajes con los que trabajo:</strong>
 </p>
 
 <p align="left">
@@ -23,16 +34,16 @@
     alt="HTML5" 
   />
   <img 
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    alt="CSS3" 
+    src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" 
+    alt="Python" 
   />
   <img 
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
     alt="JavaScript" 
   />
   <img 
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
-    alt="PHP" 
+    src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" 
+    alt="C#" 
   />
   <img 
     src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" 
@@ -47,32 +58,22 @@
     alt="PostgreSQL" 
   />
   <img 
-    src="https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=jasperreports&logoColor=white" 
-    alt="JasperReports" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
-    alt="Flutter" 
+    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" 
+    alt="MySQL" 
   />
   <img 
     src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" 
     alt="MongoDB" 
   />
-  <img 
-    src="https://img.shields.io/badge/Odoo-4B0082?style=for-the-badge&logo=odoo&logoColor=white" 
-    alt="Odoo" 
-  />
+ 
 </p>
 
 <p align="left">
-  💼 <strong>Tools and skills:</strong>
+  💼 <strong>Herramientas y habilidades:</strong>
 </p>
 
 <p align="left">
-  <img 
-    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
-    alt="Figma" 
-  />
+
   <img 
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" 
     alt="Git" 
@@ -84,7 +85,7 @@
 </p>
 
 <p align="left">
-  🌍 <strong>Languages I speak:</strong>
+  🌍 <strong>Lenguajes:</strong>
 </p>
 
 <p align="left">
@@ -96,32 +97,24 @@
     src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
     alt="Spanish" 
   />
-  <img 
-    src="https://img.shields.io/badge/Catalan-Native-yellow?style=for-the-badge" 
-    alt="Catalan" 
-  />
+ 
+
+<p align="left">
+   Para contactarme: ⤵️
 </p>
 
 <p align="left">
-  💌 Feel free to reach out: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:albaayvi@gmail.com">
+  <a href="mailto:juandagutierrez00@gmail.com">
     <img 
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email" 
     />
   </a>
-  <a href="https://www.linkedin.com/in/alba-ayala-vilanova-26ba1517a/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-david-gutierrez-blanco-763844146/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
     />
   </a>
-</p>
 
 
-------
-**Créditos:** [tuusuario](https://github.com/tuusuario)  
-**Última edición:** 29/10/2023
